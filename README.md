@@ -6,6 +6,5 @@ The Department of Building and Safety issues permits for the construction, remod
 
 The permit data for most US cities is publicly accessible.  
 Los Angeles :  https://data.lacity.org/A-Prosperous-City/Building-and-Safety-Permit-Information/yv23-pmwf
-
 Chicago: https://data.cityofchicago.org/Buildings/Building-Permits/ydr8-5enu
 
