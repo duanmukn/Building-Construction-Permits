@@ -5,6 +5,7 @@ Zillow provides rent price index of every city in the United States, which indic
 
 ## Data source
 Rent index data is from Zillow.
+
 Los Angeles: https://www.zillow.com/los-angeles-ca/home-values/
 
 Chicago : https://www.zillow.com/chicago-il/home-values/
